@@ -1,0 +1,6 @@
+print ("Hello! Welcome to Python!")
+print (2)
+print ("Good Morning! \n This is Anantya.")
+print ("Whats up?",7)
+print ("I dont know",end=" # ")
+print ("Let's see!")
